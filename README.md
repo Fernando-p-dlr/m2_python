@@ -53,7 +53,7 @@ Visual Studio Code
 ###
 
 ## Acesso al proyecto
-Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/blob/main/calculadora_IMC.py) 
+Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/m2_python/blob/main/FERNANDO_PATONI_proyectoM2.py) 
 
 ## Reflexión del curso 
 
