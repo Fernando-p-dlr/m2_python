@@ -15,20 +15,16 @@ Programa 1 identifica la longitud de una palabra entre 4 a 8 letras, el segundo 
 </p>
 
 ## Funcionalidades 
-<p align="justify">
-Programa 1 Longitud de una palabra
-</p>
-:heavy_check_mark: `Funcionalidad 1:` Pedirá una palabra
+:heavy_check_mark: `Programa:` Pedirá una palabra
+:heavy_check_mark: `Funcionalidad 1:` Pedirá una palabra.
 :heavy_check_mark: `Funcionalidad 2:` Validar si algún dato sea válido o no y posteriormente mostrar un mensaje de error.
 :heavy_check_mark: `Funcionalidad 3:` Calcular la cantidad de letras que contiene la palabra.
 :heavy_check_mark: `Funcionalidad 4:` Mostrar la palabra ingresada, la cantidad de letras y su respectivo mensaje.
-<p align="justify">
-Programa 2 Encuentra el cuadrante
-</p>
-:heavy_check_mark: `Funcionalidad 1:` Pedirá al usuario las coordenadas X y Y. 
-:heavy_check_mark: `Funcionalidad 2:` Validar si algún dato sea válido o no y posteriormente mostrar un mensaje de error.
-:heavy_check_mark: `Funcionalidad 3:` Validar en que cuadrante se encuentra.
-:heavy_check_mark: `Funcionalidad 4:` Mostrar en que cuadrante se encuentra.
+:heavy_check_mark: `Programa:` Programa 2 Encuentra el cuadrante
+:heavy_check_mark: `Funcionalidad I:` Pedirá al usuario las coordenadas X y Y. 
+:heavy_check_mark: `Funcionalidad II:` Validar si algún dato sea válido o no y posteriormente mostrar un mensaje de error.
+:heavy_check_mark: `Funcionalidad III:` Validar en que cuadrante se encuentra.
+:heavy_check_mark: `Funcionalidad IV:` Mostrar en que cuadrante se encuentra.
 
 ## Herramentas utilizadas
 Visual Studio Code
