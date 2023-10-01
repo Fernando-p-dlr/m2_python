@@ -2,7 +2,7 @@
 
 <hr>
 
-###Índice
+### Índice
 - [Descripción del proyecto](#descripción-del-projecto)
   
 - [Funcionalidades](#funcionalidades)
@@ -25,7 +25,7 @@ Programa 1 identifica la longitud de una palabra entre 4 a 8 letras, el segundo 
 </p>
 
 ## Funcionalidades 
-:heavy_check_mark: `Programa:` Pedirá una palabra
+:heavy_check_mark: `Programa:` Longitud de una palabra
 
 :heavy_check_mark: `Funcionalidad 1:` Pedirá una palabra.
 
